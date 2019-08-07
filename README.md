@@ -1,4 +1,4 @@
-# study queue
+# shit
 
 electron  
 shell  
