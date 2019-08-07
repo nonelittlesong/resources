@@ -1,7 +1,7 @@
 # study queue
 
-electron
-shell
+electron  
+shell  
 react  
 express  
 websocket  
