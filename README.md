@@ -12,6 +12,16 @@ html/css
 
 - [Google 代码规范](https://google.github.io/styleguide/)  
 
-## nodejs
+## 学习计划
 
-- [nodejs 源码分析 | github](https://github.com/nonelittlesong/understand-nodejs)  
+### NodeJS
+
+- [nodejs 源码分析 | github](https://github.com/nonelittlesong/understand-nodejs)
+
+### 数据库
+
+- MySQL
+- Redis
+- MangoDB
+- PostgreSQL
+
