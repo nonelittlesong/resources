@@ -25,3 +25,22 @@ html/css
 - MangoDB
 - PostgreSQL
 
+### 文件同步
+
+- Linux
+  - rsync + inotifywait
+- NodeJS
+- C
+- Java
+- Python
+
+### 图料库
+
+- HDFS
+- GFS — 谷歌文件系统
+- haystack
+  - [理解小文件存储 haystack](https://www.jianshu.com/p/29bd95e5db20)
+- TFS
+- 对象存储
+
+### 服务器
