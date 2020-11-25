@@ -1,0 +1,33 @@
+# 官网: https://EditorConfig.org
+
+# 表示 top-most EditorConfig file，设为 true 时，停止查找 .editorconfig 文件
+root = true
+
+# Unix 风格，文件末尾以「新行」结尾
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# 用花括号匹配多个文件
+# 设置默认字符集
+[*.{js, py}]
+charset = utf-8
+
+# 空格缩进
+[*.py]
+indent_style = space
+indent_size = 4
+
+# 为指定文件设置 Tab 风格的缩进
+[Makefile]
+indent_style = tab
+
+# 覆盖 lib 目录下，JS 文件的缩进风格
+[lib/**.js]
+indent_style = space
+indent_size = 2
+
+# 匹配精确的文件
+[{package.json, .travis.yml}]
+indent_style = space
+indent_size = 2
