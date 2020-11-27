@@ -1,12 +1,18 @@
 # shit
 
-electron  
-shell  
-react  
-express  
-websocket  
-nodejs  
-html/css
+<details>
+  <summary>nothing</summary>
+  
+  - html/css
+  - react
+  - nodejs
+  - express
+  - websocket
+  - shell
+  - python
+  - electron
+
+</details>
 
 ## 规范
 
