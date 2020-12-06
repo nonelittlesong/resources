@@ -37,7 +37,5 @@
 
 ## Unicode
 
-visit [study-ubuntu/unicode.md ](https://github.com/nonelittlesong/study-ubuntu/blob/master/unicode.md)
-
 - 箭头
   - → — U+2192
