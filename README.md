@@ -7,7 +7,8 @@
 
 ### 社区
 
-- [CSS-Tricks](https://css-tricks.com)
+- [CSS-Tricks](https://css-tricks.com) — 很多优秀的 CSS 博客
+- [sitepoint](https://www.sitepoint.com/blog/) — 优秀的前端技术博客
 
 ### NodeJS
 
