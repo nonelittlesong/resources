@@ -5,11 +5,15 @@
 
 ## 学习计划
 
-### 社区
+### 每日瞻仰
 
 - [CSS-Tricks](https://css-tricks.com) — 很多优秀的 CSS 博客
 - [sitepoint](https://www.sitepoint.com/blog/) — 优秀的前端技术博客
-
+- [sindresorhus](https://github.com/sindresorhus) — github 大牛
+  - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) — 优秀的 nodejs 包收集
+  - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) — Electron 模板
+  - [awesome-electron](https://github.com/sindresorhus/awesome-electron) — Electron 资源收集
+  
 ### NodeJS
 
 - [nodejs 源码分析 | github](https://github.com/nonelittlesong/understand-nodejs)
