@@ -5,7 +5,7 @@
 
 ## 学习计划
 
-### 每日瞻仰
+### 学习路线
 
 - [CSS-Tricks](https://css-tricks.com) — 很多优秀的 CSS 博客
 - [sitepoint](https://www.sitepoint.com/blog/) — 优秀的前端技术博客
@@ -13,6 +13,9 @@
   - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) — 优秀的 nodejs 包收集
   - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) — Electron 模板
   - [awesome-electron](https://github.com/sindresorhus/awesome-electron) — Electron 资源收集
+- [jwasham](https://github.com/jwasham)
+  - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
+  - [flash card](https://github.com/jwasham/computer-science-flash-cards)
   
 ### NodeJS
 
