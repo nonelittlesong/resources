@@ -15,7 +15,7 @@
   - [awesome-electron](https://github.com/sindresorhus/awesome-electron) — Electron 资源收集
 - [jwasham](https://github.com/jwasham)
   - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-  - [flash card](https://github.com/jwasham/computer-science-flash-cards)
+  - [flash card](https://github.com/jwasham/computer-science-flash-cards), [anki](https://apps.ankiweb.net/)
 - [freecodecamp](https://www.freecodecamp.org/learn)
 
 ### NodeJS
