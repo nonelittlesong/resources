@@ -1,22 +1,22 @@
 
-## 规范
+## 学习资源
 
-- [Google 代码规范](https://google.github.io/styleguide/)  
+- 前端
+  - [CSS-Tricks](https://css-tricks.com) — 很多优秀的 CSS 博客
+  - [sitepoint](https://www.sitepoint.com/blog/) — 优秀的前端技术博客
+- github
+  - [sindresorhus](https://github.com/sindresorhus)
+    - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) — 优秀的 nodejs 包收集
+    - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) — Electron 模板
+    - [awesome-electron](https://github.com/sindresorhus/awesome-electron) — Electron 资源收集
+  - [jwasham](https://github.com/jwasham)
+    - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) — 学习方法总结
+    - [flash card](https://github.com/jwasham/computer-science-flash-cards), [anki](https://apps.ankiweb.net/) — 记忆卡片
+- 学习网站
+  - [freecodecamp](https://www.freecodecamp.org/learn) — 开源学习网站
+  - [TutorialTeacher](https://www.tutorialsteacher.com/) — 基础入门教程
 
 ## 学习计划
-
-### 学习路线
-
-- [CSS-Tricks](https://css-tricks.com) — 很多优秀的 CSS 博客
-- [sitepoint](https://www.sitepoint.com/blog/) — 优秀的前端技术博客
-- [sindresorhus](https://github.com/sindresorhus) — github 大牛
-  - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) — 优秀的 nodejs 包收集
-  - [electron-boilerplate](https://github.com/sindresorhus/electron-boilerplate) — Electron 模板
-  - [awesome-electron](https://github.com/sindresorhus/awesome-electron) — Electron 资源收集
-- [jwasham](https://github.com/jwasham)
-  - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md)
-  - [flash card](https://github.com/jwasham/computer-science-flash-cards), [anki](https://apps.ankiweb.net/)
-- [freecodecamp](https://www.freecodecamp.org/learn)
 
 ### NodeJS
 
