@@ -15,6 +15,8 @@
 - 学习网站
   - [freecodecamp](https://www.freecodecamp.org/learn) — 开源学习网站
   - [TutorialTeacher](https://www.tutorialsteacher.com/) — 基础入门教程
+- Java
+  - [javatpoint](https://www.javatpoint.com/)
 
 ## 学习计划
 
