@@ -12,6 +12,7 @@
   - [jwasham](https://github.com/jwasham)
     - [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-cn.md) — 学习方法总结
     - [flash card](https://github.com/jwasham/computer-science-flash-cards), [anki](https://apps.ankiweb.net/) — 记忆卡片
+    - [wangEditor](https://github.com/wangeditor-team/wangEditor) — 富文本框
 - 学习网站
   - [freecodecamp](https://www.freecodecamp.org/learn) — 开源学习网站
   - [TutorialTeacher](https://www.tutorialsteacher.com/) — 基础入门教程
